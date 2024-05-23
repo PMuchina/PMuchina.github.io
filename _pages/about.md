@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Peter Muchina"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Peter Muchina
 
 ## About Me
