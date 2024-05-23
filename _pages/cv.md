@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Molecular Biology and Bioinformatics,JKUAT University, 2025 (expected)
+* M.S. in Bioinformatics, Pwani University, 2022
+* B.S. in BSc Biochemistry and Molecular Biology, South Eastern Kenya University , 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Adjunct lecturer – Department of Biochemistry
+    * Jan 2023 - Current
+    * Jomo Kenyatta University of Agriculture and Technology, JKUAT - Kenya
+    
+* Research Assistant
+    * May 2018 - Sept 2019
+    * International Center of Insect Physiology and Ecology, ICIPE - Kenya
+        *	Collected, prepared, and analyzed various biological insect samples.
+        *	Molecular analysis and bioinformatics.
+        *	Collaborated with the leadership team to identify relevant questions and determine the best data collection methods.
+     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Programming skills: Python
+*	Statistical skills: R
+*	Data analysis 
+*	Linux
+*	GPU programming
+*	High-performance computing
+*	Genomics and genetics
+
+Awards
+======
+* [Early career researchers travel grant from Elsevier](http://www.icipe.org/news/early-career-researchers-receive-grants-elsevier)
+
 
 Publications
 ======
